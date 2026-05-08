@@ -11,7 +11,7 @@ This repository contains an in-depth technical report detailing the practical ap
 * **Output Analysis:** Interpreting results to identify a target's attack surface.
 
 ## 📂 Project Files
-* [Download the Full Technical Report (PDF)](./Nmap-Report-Muneeb.pdf) - A complete guide to the labs and findings.
+* [Download the Full Technical Report (PDF)](./Nmap_Report_Muneeb.pdf) - A complete guide to the labs and findings.
 
 ## 💻 Tools & Environment
 * **Primary Tool:** Nmap
